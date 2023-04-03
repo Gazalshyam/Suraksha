@@ -1,2 +1,2 @@
 # Suraksha
-A women safety app design ed to work in remote locations
+A women safety app designed to work in remote locations
